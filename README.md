@@ -1,6 +1,6 @@
 ## hranoprovod-cli [![Build Status](https://travis-ci.org/Hranoprovod/hranoprovod-cli.svg?branch=master)](https://travis-ci.org/Hranoprovod/hranoprovod-cli)
 
-**DEPRECATION NOTICE** 
+**!!! DEPRECATION NOTICE !!!** 
 
 The development has been moved to a single repository https://github.com/aquilax/hranoprovod-cli
 
