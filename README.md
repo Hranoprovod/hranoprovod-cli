@@ -1,5 +1,9 @@
 ## hranoprovod-cli [![Build Status](https://travis-ci.org/Hranoprovod/hranoprovod-cli.svg?branch=master)](https://travis-ci.org/Hranoprovod/hranoprovod-cli)
 
+**DEPRECATION NOTICE** 
+
+The development has been moved to a single repository https://github.com/aquilax/hranoprovod-cli
+
 ## Description
 
 Hranoprovod is command line tracking tool. It supports nested recipies and custom defined tracking elements, which makes it perfect for tracking calories, nutionin data, excercises and other accumulative data.
